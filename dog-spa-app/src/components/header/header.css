@@ -1,0 +1,51 @@
+.header{
+   padding: 46px 0 56px;
+}
+.header__row{
+   display: flex;
+   column-gap: 30px;
+   align-items: center;
+   justify-content: space-between;
+}
+.header___logo {
+   width: 60px;
+   height: 67px;
+  
+}
+
+.spa{
+   color: #4C4C4B;
+
+font-family: Tangerine;
+font-size: 15px;
+font-weight: 700;
+display: flex;
+
+
+   
+}
+
+
+.header__nav{
+font-size: 15px;
+font-weight: 500;
+display: flex;
+gap: 15px;
+}
+
+
+ 
+.header__nav ul{
+   display: flex;
+   column-gap: 20px;
+   align-items: center;
+}
+.header__nav a {
+   color:#4C4C4B ;
+}
+.header__nav-btn{
+ 
+  
+  border-bottom: 3px solid #E89B93;
+  border-radius: 2px ;
+}

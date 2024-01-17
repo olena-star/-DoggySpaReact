@@ -1,0 +1,19 @@
+body{
+    font-family: 'Tangerine',  sans-serif ;
+    font-family: 'Cormorant Garamond', sans-serif;
+    
+}
+.container{
+    max-width: 1672px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+.icons{
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+.luxe{
+    font-size: 5px;
+    color: aliceblue;
+}

@@ -1,0 +1,49 @@
+.promo{
+    margin-bottom: 63px;
+    background: #F3DED7;
+}
+
+.promo p {
+    background: #F3DED7;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.promo__content{
+    background-image: url("../../img/hund.jpg");
+   
+min-height: 500px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 0 0 50px;
+    gap: 20px;
+}
+.promo__text{
+    color: #4C4C4B;
+text-align: center;
+font-family: Cormorant;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+
+.btn{
+    display: flex;
+max-width: 220px;
+min-height: 25px;
+padding: 10px 16px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 30px;
+background: #E89B93;
+}
